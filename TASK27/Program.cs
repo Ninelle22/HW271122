@@ -6,17 +6,16 @@
 using static System.Console;
 Clear();
 
-int SumofdigitsinNumber (int num)
-{
-    int sum = 0;
-    while (num != 0)
-    {
-        sum += num % 10;
-        num /=10;   
-    }
-return sum;
-}
+Write("Enter number: ");
+WriteLine($"Sum of digits in the number: {sum(int.Parse(ReadLine()))}");
 
-WriteLine("Enter Number: ");
-int number = Convert.ToInt32(ReadLine());
-WriteLine($"Sum of all digits in number = {SumofdigitsinNumber(number)}");
+int sum(int digit)
+{
+    int result = 0;
+    while (digit !=0)
+    {
+        result +=digit % 10;
+        digit /=10;
+    }
+    return result;
+}
