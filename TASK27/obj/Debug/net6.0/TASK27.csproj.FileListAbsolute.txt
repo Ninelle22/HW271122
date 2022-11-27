@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\HW271122\TASK27\bin\Debug\net6.0\TASK27.exe
+D:\GEEKBRAINS\HW271122\TASK27\bin\Debug\net6.0\TASK27.deps.json
+D:\GEEKBRAINS\HW271122\TASK27\bin\Debug\net6.0\TASK27.runtimeconfig.json
+D:\GEEKBRAINS\HW271122\TASK27\bin\Debug\net6.0\TASK27.dll
+D:\GEEKBRAINS\HW271122\TASK27\bin\Debug\net6.0\TASK27.pdb
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.AssemblyInfo.cs
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.dll
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\refint\TASK27.dll
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.pdb
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\TASK27.genruntimeconfig.cache
+D:\GEEKBRAINS\HW271122\TASK27\obj\Debug\net6.0\ref\TASK27.dll
