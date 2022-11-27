@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.AssemblyInfo.cs
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\HW271122\bin\Debug\net6.0\HW271122.exe
+D:\GEEKBRAINS\HW271122\bin\Debug\net6.0\HW271122.deps.json
+D:\GEEKBRAINS\HW271122\bin\Debug\net6.0\HW271122.runtimeconfig.json
+D:\GEEKBRAINS\HW271122\bin\Debug\net6.0\HW271122.dll
+D:\GEEKBRAINS\HW271122\bin\Debug\net6.0\HW271122.pdb
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.dll
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\refint\HW271122.dll
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.pdb
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\HW271122.genruntimeconfig.cache
+D:\GEEKBRAINS\HW271122\obj\Debug\net6.0\ref\HW271122.dll
